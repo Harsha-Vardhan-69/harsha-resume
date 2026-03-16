@@ -3,8 +3,8 @@
 This repository contains the latest version of my professional resume along with archived previous versions.
 
 ## Current Resume
-- PDF: TODO
-- DOCX: TODO
+- DOCX: [Download](./HarshaVardhan_QA_Engineer_Resume.docx)
+- PDF: [Download](./HarshaVardhan_QA_Engineer_Resume.docx)
 
 ## Profile
 QA Engineer with experience in manual testing, API testing, and web application testing.
