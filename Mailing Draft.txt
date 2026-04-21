@@ -3,7 +3,7 @@ Dear {NAME},
 Greetings.
 
 I hope you are doing well. I am writing to kindly request a referral for the QA Engineer position at WSA (Versatile Payroll).
-Please find my resume attached for your review. And my portfolio HERE
+Please find my resume attached for your review. And my portfolio {HERE} # add link here
 
 Primary Skill Set:
 Manual Testing
